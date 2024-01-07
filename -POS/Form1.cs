@@ -14,7 +14,7 @@ namespace _POS
     {
         public Form1()
         {
-            InitializeComponent();
+                InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -22,11 +22,7 @@ namespace _POS
 
         }
 
-        private void bunifuLabel1_Click_2(object sender, EventArgs e)
-        {
-
-        }
-
+   
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
             this.Hide();
